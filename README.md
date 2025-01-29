@@ -4,3 +4,4 @@
 <p> - CSS </p>
 
 <img src="https://github.com/RenataCodes/Projeto-Shopping-Mobile/blob/main/Captura%20de%20tela%20Shopping%20Mobile.png?raw=true" />
+<img src="https://github.com/RenataCodes/Projeto-Shopping-Mobile/blob/main/Captura%20de%20tela%20Shopping%20Mobile%20tela%20de%20celular.png?raw=true" />
